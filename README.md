@@ -1,6 +1,6 @@
-# BitChp
+# BitChip
 
-Open sourc design files of lowest nm ASIC for bitcoin mining that you can give for printing to the lab near you.
+Open source design files of lowest nm ASIC for bitcoin mining that you can give for printing to the lab near you.
 
 ## Directory Structure
 
@@ -95,6 +95,8 @@ https://www.skywatertechnology.com/manufacturing/facilities-capabilities/
 https://github.com/bitaxeorg
 
 ## References
+
+https://github.com/skot/BM1397
 
 https://github.com/google/sky90fd-pdkhttps://github.com/google/sky90fd-pdk
 
