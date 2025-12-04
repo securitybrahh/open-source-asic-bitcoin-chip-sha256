@@ -61,8 +61,15 @@ open-source-asic-bitcoin-chip-sha256/
     ├── bin/                   # Compiled binaries (e.g., gate-level netlists)
     └── artifacts/             # Artifacts (synthesized netlists, bitstreams, etc.)
 ```
+## Processes
+
+https://github.com/google/gf180mcu-pdk
+
+https://github.com/google/sky90fd-pdk
 
 ## Foundries
+
+https://wafer.space
 
 https://anysilicon.com/vendor_category/foundries/
 
@@ -97,8 +104,6 @@ https://github.com/bitaxeorg
 ## References
 
 https://github.com/skot/BM1397
-
-https://github.com/google/sky90fd-pdk
 
 [ASIC design for mining - David Vorrick] (https://www.youtube.com/watch?v=BriKFe8qX1s)
 
