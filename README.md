@@ -98,9 +98,9 @@ https://github.com/bitaxeorg
 
 https://github.com/skot/BM1397
 
-https://github.com/google/sky90fd-pdkhttps://github.com/google/sky90fd-pdk
+https://github.com/google/sky90fd-pdk
 
-https://www.youtube.com/watch?v=BriKFe8qX1s
+[ASIC design for mining - David Vorrick] (https://www.youtube.com/watch?v=BriKFe8qX1s)
 
 https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner
 
