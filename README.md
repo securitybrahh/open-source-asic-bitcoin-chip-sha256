@@ -69,6 +69,8 @@ https://github.com/google/sky90fd-pdk
 
 ## Foundries
 
+https://precisioninno.com/
+
 https://wafer.space
 
 https://anysilicon.com/vendor_category/foundries/
@@ -79,7 +81,13 @@ https://www.skywatertechnology.com/manufacturing/facilities-capabilities/
 
 ### Canada
 
+### Central America
+
 ### EU
+
+https://www.slicesemiconductor.com/ (Ireland) 
+
+https://www.chipflow.io/ (spain) 
 
 ### UK
 
@@ -92,6 +100,8 @@ https://www.skywatertechnology.com/manufacturing/facilities-capabilities/
 ### LatAm
 
 ### Arab World
+
+https://mabrains.com/
 
 ### Africa
 
