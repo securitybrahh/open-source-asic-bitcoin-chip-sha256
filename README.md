@@ -115,11 +115,13 @@ https://github.com/bitaxeorg
 
 https://github.com/skot/BM1397
 
-[ASIC design for mining - David Vorrick] (https://www.youtube.com/watch?v=BriKFe8qX1s)
+[ASIC design for mining - David Vorrick](https://www.youtube.com/watch?v=BriKFe8qX1s)
 
 https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner
 
 ## Resources
+
+https://theopenroadproject.org/
 
 https://www.zerotoasiccourse.com/
 
