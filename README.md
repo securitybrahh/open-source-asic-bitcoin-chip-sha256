@@ -69,6 +69,8 @@ https://github.com/google/sky90fd-pdk
 
 ## Foundries
 
+https://cyientsemi.com/asic-turnkey-solutions
+
 https://precisioninno.com/
 
 https://wafer.space
@@ -78,6 +80,11 @@ https://anysilicon.com/vendor_category/foundries/
 ### USA
 
 https://www.skywatertechnology.com/manufacturing/facilities-capabilities/
+
+Cyient Semiconductors Inc. 
+Suite 260, One Bethany East, 
+located at 900 W Bethany Dr, 
+Allen, Texas 75013
 
 ### Canada
 
@@ -89,13 +96,32 @@ https://www.slicesemiconductor.com/ (Ireland)
 
 https://www.chipflow.io/ (spain) 
 
+Cyient Semiconductors GmbH
+401, Dusseldorf Landstrabe, Duisburg, 47259, Germany
+
+Cyient Semiconductors NV
+Researchpark Hassrode 1113 Esperantolaan 9, 3001 Heverlee, Leuven, Belgium
+
 ### UK
+
+Cyient Semiconductors Europe Private Limited
+Suite 1, First Floor Block A, Apex Plaza, Forbury Road, Reading, Berkshire, RG1 1AX, United Kingdom
 
 ### Russia
 
 ### China
 
 ### India
+
+Cyient Semiconductors Private Limited (HQ)
+2nd Floor, Plot No. 11 Software Unit Layout
+Madhapur, Hyderabad
+Telangana, India 500081
+
+Cyient Ltd. Infotech IT Partk
+Plot No - 110A & 110B,
+Phase 1 Electronic City House Road,
+Bengaluru, India 560 100
 
 ### LatAm
 
@@ -105,7 +131,7 @@ https://mabrains.com/
 
 ### Africa
 
-### oceania
+### Oceania
 
 ## Upstream 
 
