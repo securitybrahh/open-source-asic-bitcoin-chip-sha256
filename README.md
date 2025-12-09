@@ -145,6 +145,10 @@ https://github.com/skot/BM1397
 
 https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner
 
+Bitmain's Antminer use 7nm for older models like the S19 series 
+
+S21 (5nm)  S23 (3nm), using foundries like TSMC for fabrication to achieve higher performance (hashrates) and lower power consumption (J/TH).
+
 ## Resources
 
 https://theopenroadproject.org/
