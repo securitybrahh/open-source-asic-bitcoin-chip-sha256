@@ -109,6 +109,10 @@ https://www.chipflow.io/ (spain)
 Cyient Semiconductors GmbH
 401, Dusseldorf Landstrabe, Duisburg, 47259, Germany
 
+IHP GmbH - Leibniz Institute for High Performance Microelectronics
+Im Technologiepark 25
+15236 Frankfurt (Oder), Germany
+
 Cyient Semiconductors NV
 Researchpark Hassrode 1113 Esperantolaan 9, 3001 Heverlee, Leuven, Belgium
 
