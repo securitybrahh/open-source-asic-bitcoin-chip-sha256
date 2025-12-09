@@ -69,7 +69,15 @@ open-source-asic-bitcoin-chip-sha256/
 4.  Submit tape‑in bundle
 5.  Fabrication in the pooled MPW.  
 6.  Dicing & logistics.   
-7.  Delivery of bare dies (and packaged parts) 
+7.  Delivery of bare dies (and packaged parts)
+
+! [ASIC dev flow](doc/images/pdkopen1EN.png) 
+
+![OpenRoad](doc/images/pdkopen2.png)
+
+![OpenLane Flow](doc/images/pdkopen3.png)
+
+![Tapeout](doc/images/pdkopen4.png)
 
 ## Processes
 
