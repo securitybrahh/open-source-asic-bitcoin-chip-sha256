@@ -61,6 +61,16 @@ open-source-asic-bitcoin-chip-sha256/
     ├── bin/                   # Compiled binaries (e.g., gate-level netlists)
     └── artifacts/             # Artifacts (synthesized netlists, bitstreams, etc.)
 ```
+## Steps
+
+1.  Reserve a shuttle.
+2.  Design & verify with LibreLane/OpenROAD.   
+3.  Run sign‑off (DRC/LVS/ERC/antenna) and follow pad/ESD guidelines.  
+4.  Submit tape‑in bundle
+5.  Fabrication in the pooled MPW.  
+6.  Dicing & logistics.   
+7.  Delivery of bare dies (and packaged parts) 
+
 ## Processes
 
 https://github.com/google/gf180mcu-pdk
@@ -150,6 +160,8 @@ Bitmain's Antminer use 7nm for older models like the S19 series
 S21 (5nm)  S23 (3nm), using foundries like TSMC for fabrication to achieve higher performance (hashrates) and lower power consumption (J/TH).
 
 ## Resources
+
+https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/updates/librelane-template
 
 https://theopenroadproject.org/
 
