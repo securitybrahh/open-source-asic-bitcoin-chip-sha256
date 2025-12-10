@@ -135,6 +135,10 @@ Suite 1, First Floor Block A, Apex Plaza, Forbury Road, Reading, Berkshire, RG1 
 
 ### China
 
+### South East Asia
+
+Global Founderies - 60 Woodlands Industrial Park D Street 2, Singapore 738406
+
 ### India
 
 Cyient Semiconductors Private Limited (HQ)
