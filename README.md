@@ -81,9 +81,11 @@ open-source-asic-bitcoin-chip-sha256/
 
 ## Processes
 
-https://github.com/google/gf180mcu-pdk
-
 https://github.com/google/sky90fd-pdk
+
+https://github.com/IHP-GmbH/IHP-Open-PDK (ihp130)
+
+https://github.com/google/gf180mcu-pdk
 
 ## Foundries
 
@@ -163,6 +165,7 @@ https://github.com/bitaxeorg
 
 https://github.com/skot/BM1397
 
+[Open source silicon and wafer.space - $7k for 1,000 custom ICs - Hackware Oct 2025](https://www.youtube.com/watch?v=0nqV9Eo17wA)
 [ASIC design for mining - David Vorrick](https://www.youtube.com/watch?v=BriKFe8qX1s)
 
 https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner
@@ -172,6 +175,7 @@ Bitmain's Antminer use 7nm for older models like the S19 series
 S21 (5nm)  S23 (3nm), using foundries like TSMC for fabrication to achieve higher performance (hashrates) and lower power consumption (J/TH).
 
 https://www.crowdsupply.com/wafer-space/gf180mcu-run-1
+
 ## Resources
 
 https://www.crowdsupply.com/wafer-space/gf180mcu-run-1/updates/librelane-template
